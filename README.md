@@ -4,6 +4,10 @@
 **Profesor:** Cintia Ragoni  
 **Alumno:** Jeronimo Coronel  
 **Año:** 2025
+---
+
+## Video explicativo:
+https://drive.google.com/file/d/1rVyCeeAFBvYGT63nyYajgfrJ7VzqHAm1/view?usp=drive_link
 
 ---
 
